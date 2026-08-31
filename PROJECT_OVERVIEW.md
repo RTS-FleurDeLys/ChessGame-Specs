@@ -466,8 +466,7 @@ Conceptually, the board may contain multiple layers:
 ```text
 Board
 ├── Piece Layer
-├── Building Layer
-└── Future Layers
+└── Building Layer
 ```
 
 This layered system could later support other mechanics without requiring major changes to the basic board representation.
